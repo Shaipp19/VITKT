@@ -15,6 +15,12 @@ c= a/b; //Fixed devide by 0 error
 
 System.out.println("Division c = "+c);
 
+for(int i=0;i<10;i++){
+    //q
+    //w
+    //r
+    
+}
 //Dev1 Add his code 20 lines 
 
 //Add multiplication code 
